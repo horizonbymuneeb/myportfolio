@@ -73,7 +73,27 @@ export const experiencesData = [
 
 export const projectsData = [
   
-    {
+  {
+    "title": "AI Assistant for Doctor Using Generative AI LLM Model Based on Images",
+    "description": "Develop an AI assistant for doctors that utilizes a generative AI large language model (LLM) to analyze and interpret medical images.",
+    "tags": ["Generative AI", "LLM", "Image Analysis", "Healthcare", "TensorFlow"]
+  },
+  {
+    "title": "Research Paper Summarization Using Llama Index and Local LLM Ollama",
+    "description": "Create a tool for summarizing research papers using Llama Index and a local large language model (LLM) Ollama.",
+    "tags": ["Research Paper Summarization", "LLM", "Llama Index", "Ollama", "NLP"]
+  },
+  {
+    "title": "Local RAG App Using CoheresR and Ollama",
+    "description": "Build a local Retrieval-Augmented Generation (RAG) application using CoheresR and Ollama for enhanced text generation and retrieval capabilities.",
+    "tags": ["RAG", "CoheresR", "Ollama", "Text Generation", "NLP"]
+  },
+  {
+    "title": "Deep Audio Classifier Using TensorFlow",
+    "description": "Develop a deep learning-based audio classifier using TensorFlow to categorize audio clips into different classes.",
+    "tags": ["Deep Learning", "Audio Classification", "TensorFlow", "Signal Processing"]
+  },  
+  {
       "title": "Sentiment Analysis with LSTM",
       "description": "Use LSTM for sentiment analysis.",
       "tags": ["TensorFlow", "Keras", "NLTK", "spaCy", "scikit-learn"]
